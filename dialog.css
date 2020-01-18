@@ -1,0 +1,16 @@
+.container {
+	width: 500px;
+	height: 300px;
+	background-color:gray;
+	margin-top: 50px;
+}
+td {
+	color: white;
+	font-size: 20px;
+	padding: 10px;
+}
+table {
+	background-color:black;
+	margin-top: 50px;
+	display: inline-block;
+}
